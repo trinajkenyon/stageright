@@ -5,6 +5,8 @@ StageRight is a stack-based esoteric interpreted programming language inspired b
 This language allows for comments when preceded by "//". Comments still count as lines in the program when considering jumps. 
 Lines are separated by newlines. 
 
+Due to the nature of the jump function (TAKE), a character '0' anywhere in a string will break functions that repeat strings in any way. 
+
 | Instruction | Description |
 | ------ | ------ |
 | LINE | Read any amount of input from the user. It will be pushed one character at a time onto the stack unless preceded by "##". |
