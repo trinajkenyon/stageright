@@ -1,0 +1,14 @@
+// Get char and then num
+LINE
+LINE
+// Grabbing the char
+UNDERSTUDY
+// Double the char and print one of them
+ENCORE
+DELIVER
+// Grab the number, decrement, test
+UNDERSTUDY
+CAST 1
+SOLO
+ENCORE
+TAKE 5

@@ -1,0 +1,9 @@
+// Loop for user input, must exit with zero
+LINE
+CAST 0
+// Pull from bottom and print
+UNDERSTUDY
+DELIVER
+UNDERSTUDY
+ENCORE
+TAKE 6
